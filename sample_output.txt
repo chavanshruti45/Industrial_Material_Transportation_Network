@@ -1,0 +1,21 @@
+===== INDUSTRIAL MATERIAL TRANSPORTATION NETWORK =====
+1. Display production units
+2. Display transportation network
+3. Find shortest path
+4. Exit
+Enter your choice: 3
+
+--- PRODUCTION UNITS ---
+0. Raw Material Storage
+1. Cutting Unit
+2. Processing Unit
+3. Assembly Unit
+4. Quality Checking Unit
+5. Final Packaging Unit
+
+Enter source unit number (0-5): 0
+Enter destination unit number (0-5): 5
+
+--- SHORTEST TRANSPORTATION ROUTE ---
+Raw Material Storage -> Processing Unit -> Cutting Unit -> Assembly Unit -> Quality Checking Unit -> Final Packaging Unit
+Total transportation distance: 13 units
